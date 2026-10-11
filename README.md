@@ -71,17 +71,9 @@ cp -R ai-store-manager-skill/ai-store-manager "${CODEX_HOME:-$HOME/.codex}/skill
 - [单品贡献与菜单试点](ai-store-manager/references/menu-profit.md)
 - [从短视频到订单](ai-store-manager/references/video-to-orders.md)
 - [书稿使用说明](ai-store-manager/references/book-map.md)
-- [设计说明](AI店长-Skill设计说明.md)
-- [模拟试用记录](AI店长-Skill试用记录.md)
 - [《AI店长》公开阅读仓库](https://github.com/DONGLUOJI/ai-store-manager-book)
 
-## 当前范围
-
-通过对话和用户提供的文件完成诊断、计算及方案制作。目前没有接入 POS、库存、会员或消息系统，也没有自动下单、改价或执行排班。初版模拟试用覆盖六个场景；新增菜单与短视频流程已完成结构校验和计算核对，尚需真实门店的使用反馈与结果验证。
-
-书稿中的部分案例和数字仍待核实，相关使用条件已记录在 Skill 中；经营结论以当前门店的事实、可复算数据和明确假设为依据。
-
-发现问题可以提交 Issue，注明场景、输入和预期改进，使用匿名或模拟数据。
+使用中有建议或问题，可提交 Issue；请勿上传顾客个人信息或门店敏感数据。
 
 ## 版权
 
