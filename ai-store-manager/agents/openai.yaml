@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI店长"
+  short_description: "建立门店档案，诊断获客、商品与人员问题，交付可执行方案并复盘经营结果"
+  default_prompt: "用 $ai-store-manager 帮我建立门店经营档案，判断当前最值得先改善的问题，并完成一个可执行的试点方案。"
